@@ -26,10 +26,10 @@ str2 = '1'
 str3 = '1.1'
 str4 = '(1000, 2000, 3000)'
 str5 = '[1000, 2000, 3000]'
-print(type(eval(str2)))
-print(type(eval(str3)))
-print(type(eval(str4)))
-print(type(eval(str5)))
+print(type(eval(str2)))    #<class 'int'>
+print(type(eval(str3)))    #<class 'float'>
+print(type(eval(str4)))    #<class 'tuple'>
+print(type(eval(str5)))    #<class 'list'>
 
 
 

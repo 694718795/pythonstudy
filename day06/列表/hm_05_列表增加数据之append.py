@@ -1,7 +1,7 @@
 name_list = ['TOM', 'Lily', 'ROSE']
 
-# name_list.append('xiaoming')
-name_list.append([11, 22])
+name_list.append('xiaoming')
+# name_list.append([11, 22])
 
 print(name_list)
 

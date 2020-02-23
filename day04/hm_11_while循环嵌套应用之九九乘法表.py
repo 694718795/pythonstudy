@@ -13,10 +13,11 @@ while j <= 9:
     # 一行的表达式开始
     i = 1
     while i <= j:
-        print(f'{i} * {j} = {i*j}', end='\t')
+        # print(f'{i} * {j} = {i*j}', end='\t')
+        print(str(i)+"*"+str(j)+"="+str(i*j), end='\t')
         i += 1
     # 一行的表达式结束
-    print()
+    print()   #换行
     j += 1
 
 

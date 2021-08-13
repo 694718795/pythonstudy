@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cb6563c-ff64-416e-8a83-7dc86145dca1" name="Default Changelist" comment="添加gitignore" />
+    <list default="true" id="2cb6563c-ff64-416e-8a83-7dc86145dca1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="work" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,28 +86,63 @@
       <option name="project" value="LOCAL" />
       <updated>1628826377082</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="删除1  2">
+      <created>1628834908201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628834908201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="work" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加gitignore" />
+    <MESSAGE value="删除1  2" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除1  2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="125" key="CommitChangelistDialog2" timestamp="1628826463794">
+    <state x="465" y="125" key="CommitChangelistDialog2" timestamp="1628834908115">
       <screen x="0" y="25" width="1792" height="1026" />
     </state>
-    <state x="465" y="125" key="CommitChangelistDialog2/0.25.1792.1026@0.25.1792.1026" timestamp="1628826463794" />
-    <state x="481" y="295" key="Vcs.Push.Dialog.v2" timestamp="1628826381149">
+    <state x="465" y="125" key="CommitChangelistDialog2/0.25.1792.1026@0.25.1792.1026" timestamp="1628834908115" />
+    <state x="481" y="295" key="Vcs.Push.Dialog.v2" timestamp="1628834970121">
       <screen x="0" y="25" width="1792" height="1026" />
     </state>
-    <state x="481" y="295" key="Vcs.Push.Dialog.v2/0.25.1792.1026@0.25.1792.1026" timestamp="1628826381149" />
-    <state x="698" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628834488331">
+    <state x="481" y="295" key="Vcs.Push.Dialog.v2/0.25.1792.1026@0.25.1792.1026" timestamp="1628834970121" />
+    <state x="698" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628835099000">
       <screen x="0" y="25" width="1792" height="1026" />
     </state>
-    <state x="698" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1026@0.25.1792.1026" timestamp="1628834488331" />
+    <state x="698" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1026@0.25.1792.1026" timestamp="1628835099000" />
   </component>
 </project>
